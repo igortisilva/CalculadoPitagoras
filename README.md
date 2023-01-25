@@ -1,1 +1,1 @@
-# CalculadoPitagoras
+# Calculadora Pitagoras
